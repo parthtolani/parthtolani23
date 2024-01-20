@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+    background-color: #e0e0e0;
+}
+.box1{
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 200px;
+    background-color: #fff;
+    border: 3px solid #03783a;
+    border-radius: 5px;
+    margin-left: 530px;
+}
+.box2{
+    width: 450px;
+    height: 275px;
+    background-color: #fff;
+    border: 3px solid #c6262e;
+    border-radius: 5px;
+    margin-left: 530px;
+}
+#btn1{
+    background-color: #088;
+    color: beige;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#btn1:hover{
+    cursor: pointer;
+}
+#btn2{
+    background-color: #088;
+    color: beige;
+    border-radius: 5px;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#btn2:hover{
+    cursor: pointer;
+}
+#hr1{
+   width: 40%;
+   opacity: 0.5;
+}
+#username{
+    width: 90%;
+    height: 30px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+#roomid{
+    width: 90%;
+    height: 30px;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
